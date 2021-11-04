@@ -1,0 +1,3 @@
+1. lo que tengamos con if/else o solo if, convertirlo a ternarios/cortocircuitos
+2. lo que hayamos hecho con flecha, lo pasamos a function () {}. Lo que hayamos hecho con sintaxis function, lo pasamos a flecha. Ver en qué casos puede ser una línea o debe ser varias! Atentos a donde necesite return...
+3. quitar y agregar elementos a arrays que sean de: ciudades, dinosaurios, vehiculos.
